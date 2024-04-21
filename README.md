@@ -30,9 +30,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/biswajit-k/google-sheet-edit-notifier">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Google Sheet Edit Notifier</h3>
 
