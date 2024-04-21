@@ -1,0 +1,15 @@
+CLOUD
+create project and app
+add permissions to server
+
+APP
+clone repo
+install packages
+put client secret
+set the scopes
+run the server
+grant permissions
+
+SCRAPPER
+read the credentials from env
+run your service using cURL requests
